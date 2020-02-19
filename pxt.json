@@ -1,10 +1,11 @@
 {
     "name": "MakerMuseum_3",
-    "version": "1.0.0",
-    "description": "Extension for YahBoom MakerMuseum_3 V1.0.0",
+    "version": "1.0.1",
+    "description": "Extension for YahBoom MakerMuseum_3 V1.0.1",
     "dependencies": {
         "core": "*",
-        "SuperBit": "github:YahboomTechnology/SuperBit"
+        "SuperBit": "github:YahboomTechnology/SuperBit",
+        "GHBit": "github:YahboomTechnology/GHBit"
     },
     "files": [
         "README.md",
